@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s8hGLVt7BFSgOg+jTlGly/Y16Mwfpng2efTq75KTc1A=",
+  "Source": "AspNet-RateLimit",
+  "BasePath": "_content/AspNet-RateLimit",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
